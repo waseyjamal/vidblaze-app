@@ -1,7 +1,7 @@
 # VidBlaze — Free Android Video Downloader
 
 <p align="center">
-  <img src="https://vidblaze.app/assets/img/logo.png" width="120" alt="VidBlaze Logo"/>
+  <img src="https://vidblaze.app/logo.png" width="120" alt="VidBlaze Logo"/>
 </p>
 
 <p align="center">
